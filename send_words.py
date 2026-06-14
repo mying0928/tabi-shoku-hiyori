@@ -1,9 +1,11 @@
 import json
 import math
+from datetime import date
 
 from line_utils import push_message
 
 PROGRESS_FILE = "progress.json"
+REMINDERS_FILE = "reminders.json"
 DAILY_COUNT = 10
 
 CATEGORIES = {
@@ -15,6 +17,20 @@ CATEGORIES = {
 def pick_words(words, start):
     total = len(words)
     return [words[(start + i) % total] for i in range(DAILY_COUNT)]
+
+
+def pat_reminder_line():
+    with open(REMINDERS_FILE, encoding="utf-8") as f:
+        reminders = json.load(f)
+
+    expires = date.fromisoformat(reminders["pat_expires"])
+    days_left = (expires - date.today()).days
+
+    if 0 <= days_left <= reminders["remind_days_before"]:
+        return f"\n⚠️ GitHub PAT 將於 {expires.isoformat()} 過期(剩 {days_left} 天),記得去重新產生並更新給Claude！"
+    if days_left < 0:
+        return f"\n⚠️ GitHub PAT 已於 {expires.isoformat()} 過期,單字庫擴充推送可能會失敗,記得重新產生token！"
+    return ""
 
 
 def main():
@@ -53,6 +69,8 @@ def main():
         if day >= total_days:
             suffix = "（這輪結束，明天將從頭開始 🔄）"
         lines.append(f"{title} 第 {day} / {total_days} 天{suffix}")
+
+    lines.append(pat_reminder_line())
 
     push_message("\n".join(lines))
 
