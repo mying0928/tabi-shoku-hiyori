@@ -1,5 +1,4 @@
 import json
-import math
 from datetime import date
 
 from line_utils import push_message
@@ -8,7 +7,7 @@ PROGRESS_FILE = "progress.json"
 REMINDERS_FILE = "reminders.json"
 
 CATEGORIES = {
-    "travel": {"file": "words_travel.json", "title": "✈️ 旅遊單字", "index_key": "travel_index", "daily_count": 4},
+    "travel": {"file": "words_travel.json", "title": "✈️ 旅遊單字", "index_key": "travel_index", "daily_count": 6},
     "menu": {"file": "words_menu.json", "title": "🍜 菜單單字", "index_key": "menu_index", "daily_count": 8},
 }
 
@@ -38,7 +37,6 @@ def main():
 
     lines = ["📚 今天的日文單字 (N5+N4+N3 旅遊+美食)\n"]
     today_words = {}
-    day_info = []
 
     for key, cfg in CATEGORIES.items():
         with open(cfg["file"], encoding="utf-8") as f:
@@ -47,8 +45,6 @@ def main():
         daily_count = cfg["daily_count"]
         start = progress[cfg["index_key"]]
         total = len(words)
-        total_days = math.ceil(total / daily_count)
-        today_day = (start // daily_count) + 1
 
         picked = pick_words(words, start, daily_count)
         today_words[key] = picked
@@ -59,16 +55,8 @@ def main():
         lines.append("")
 
         progress[cfg["index_key"]] = (start + daily_count) % total
-        day_info.append((cfg["title"], today_day, total_days))
 
     progress["today_words"] = today_words
-
-    lines.append("📅 進度：")
-    for title, day, total_days in day_info:
-        suffix = ""
-        if day >= total_days:
-            suffix = "（這輪全部學完！明天將從頭開始複習 🔄）"
-        lines.append(f"{title} 第 {day} / {total_days} 天{suffix}")
 
     lines.append(pat_reminder_line())
 
