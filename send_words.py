@@ -11,6 +11,8 @@ CATEGORIES = {
     "menu": {"file": "words_menu.json", "title": "🍜 菜單單字", "index_key": "menu_index", "daily_count": 8},
 }
 
+CYCLE_DAYS = 20
+
 
 def pick_words(words, start, daily_count):
     total = len(words)
@@ -58,9 +60,15 @@ def main():
 
     progress["today_words"] = today_words
 
+    day = progress.get("day", 1)
+    lines.append(f"📅 進度：{day}/{CYCLE_DAYS}")
+
     lines.append(pat_reminder_line())
 
     push_message("\n".join(lines))
+
+    progress["today_day"] = day
+    progress["day"] = day % CYCLE_DAYS + 1
 
     with open(PROGRESS_FILE, "w", encoding="utf-8") as f:
         json.dump(progress, f, ensure_ascii=False, indent=2)

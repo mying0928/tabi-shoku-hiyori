@@ -3,6 +3,7 @@ import json
 from line_utils import push_message
 
 PROGRESS_FILE = "progress.json"
+CYCLE_DAYS = 20
 
 TITLES = {
     "travel": "✈️ 旅遊單字",
@@ -28,6 +29,9 @@ def main():
         for i, w in enumerate(words, 1):
             lines.append(f"{i}. {w['word']}（{w['kana']}）- {w['meaning']}")
         lines.append("")
+
+    day = progress.get("today_day", progress.get("day", 1))
+    lines.append(f"📅 進度：{day}/{CYCLE_DAYS}")
 
     push_message("\n".join(lines))
 
