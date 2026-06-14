@@ -55,6 +55,14 @@
 https://github.com/mying0928/tabi-shoku-hiyori/actions 確認排程狀態，
 若顯示因不活躍被停用，點選重新啟用即可。
 
+## 單字資料來源
+
+旅遊/美食單字庫由使用者參考以下JLPT單字表整理而成：
+
+- https://www.jwbooks.com.tw/DL/JLPT/JN028wordlist.pdf
+- https://www.jwbooks.com.tw/DL/JLPT/JN027wordlist.pdf
+- https://www.jwbooks.com.tw/DL/JLPT/JN026wordlist.pdf
+
 ## 怎麼請 Claude 繼續擴充
 
 開新對話直接說：
