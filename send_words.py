@@ -67,7 +67,7 @@ def main():
     for title, day, total_days in day_info:
         suffix = ""
         if day >= total_days:
-            suffix = "（這輪結束，明天將從頭開始 🔄）"
+            suffix = "（200字已全部學完！可以考慮升級到 N4 單字庫了 🎓 明天將從頭複習 🔄）"
         lines.append(f"{title} 第 {day} / {total_days} 天{suffix}")
 
     lines.append(pat_reminder_line())
