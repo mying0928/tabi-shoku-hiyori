@@ -37,7 +37,7 @@ def main():
     with open(PROGRESS_FILE, encoding="utf-8") as f:
         progress = json.load(f)
 
-    lines = ["📚 今天的日文單字 (N5 旅遊+菜單)\n"]
+    lines = ["📚 今天的日文單字 (N5+N4 旅遊+菜單)\n"]
     today_words = {}
     day_info = []
 
@@ -67,7 +67,7 @@ def main():
     for title, day, total_days in day_info:
         suffix = ""
         if day >= total_days:
-            suffix = "（200字已全部學完！可以考慮升級到 N4 單字庫了 🎓 明天將從頭複習 🔄）"
+            suffix = "（N5+N4單字已全部學完！可繼續複習，或考慮向上學習N3 🎓 明天將從頭複習 🔄）"
         lines.append(f"{title} 第 {day} / {total_days} 天{suffix}")
 
     lines.append(pat_reminder_line())
