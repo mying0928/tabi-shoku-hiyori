@@ -1,12 +1,15 @@
 name: Tabi Shoku Hiyori LINE Bot
 
 on:
-  schedule:
-    # TEST: 暫時改成台灣時間 12:03 (UTC 04:03) 測試排程觸發
-    - cron: "3 4 * * *"
-    # 每天 22:00 (台灣時間) = UTC 14:00 -> 推送複習提醒
-    - cron: "0 14 * * *"
   workflow_dispatch:
+    inputs:
+      task:
+        description: "要執行的任務 (words=10:00推送新單字, review=22:00複習提醒)"
+        type: choice
+        options:
+          - words
+          - review
+        default: words
 
 jobs:
   run:
@@ -22,21 +25,21 @@ jobs:
         run: pip install -r requirements.txt
 
       - name: Send new words (10:00)
-        if: github.event.schedule == '3 4 * * *'
+        if: github.event.inputs.task == 'words'
         env:
           LINE_CHANNEL_ACCESS_TOKEN: ${{ secrets.LINE_CHANNEL_ACCESS_TOKEN }}
           LINE_USER_ID: ${{ secrets.LINE_USER_ID }}
         run: python send_words.py
 
       - name: Send review reminder (22:00)
-        if: github.event.schedule == '0 14 * * *'
+        if: github.event.inputs.task == 'review'
         env:
           LINE_CHANNEL_ACCESS_TOKEN: ${{ secrets.LINE_CHANNEL_ACCESS_TOKEN }}
           LINE_USER_ID: ${{ secrets.LINE_USER_ID }}
         run: python send_review.py
 
       - name: Commit updated progress
-        if: github.event.schedule == '3 4 * * *'
+        if: always()
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"

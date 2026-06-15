@@ -37,6 +37,11 @@ def main():
     with open(PROGRESS_FILE, encoding="utf-8") as f:
         progress = json.load(f)
 
+    today = date.today().isoformat()
+    if progress.get("last_sent_date") == today:
+        print(f"今天 ({today}) 已經推送過單字，跳過。")
+        return
+
     lines = ["📚 今天的日文單字 (N5+N4+N3 旅遊+美食)\n"]
     today_words = {}
 
@@ -69,6 +74,7 @@ def main():
 
     progress["today_day"] = day
     progress["day"] = day % CYCLE_DAYS + 1
+    progress["last_sent_date"] = today
 
     with open(PROGRESS_FILE, "w", encoding="utf-8") as f:
         json.dump(progress, f, ensure_ascii=False, indent=2)

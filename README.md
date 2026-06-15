@@ -10,7 +10,7 @@
 - `reminders.json`：記錄 GitHub PAT 的核發日/到期日，過期前會在訊息中提醒
 - `send_words.py`：10:00推送，旅遊6個＋美食8個新單字，並檢查PAT是否快過期
 - `send_review.py`：22:00推送，複習今天學過的單字
-- `.github/workflows/schedule.yml`：排程定義（UTC 02:00 / UTC 14:00）
+- `.github/workflows/schedule.yml`：定義 `workflow_dispatch`（由外部排程服務觸發，見下方「觸發機制」）
 
 ## 輪換機制
 
@@ -60,11 +60,39 @@ Repo 需要有 push 權限，並確保 **Settings → Actions → General → Wo
 permissions** 設定為 **Read and write permissions**（讓 workflow 可以
 commit 回 `progress.json`）。
 
-### 5. 手動測試
+### 5. 設定觸發機制（cron-job.org）
 
-到 GitHub repo 的 Actions 頁籤，選排程的 workflow，點 **Run workflow**
-手動觸發一次（會走 workflow_dispatch）。若要手動測試送訊息，可暫時把
-workflow 中的時間判斷條件註解掉，測試後再恢復。
+GitHub Actions 的原生 `schedule` 觸發實測下來不穩定（常常完全不觸發），
+所以改用 [cron-job.org](https://cron-job.org)（免費）定時呼叫
+`workflow_dispatch` API 來觸發。
+
+1. 在 GitHub 建立一個 **fine-grained PAT**，只勾選這個 repo，權限給
+   `Actions: Read and write`
+2. 到 cron-job.org 建立兩個 cronjob：
+
+   **Job 1 — 每天 10:00（台灣時間）：推送新單字**
+   - URL: `https://api.github.com/repos/mying0928/tabi-shoku-hiyori/actions/workflows/schedule.yml/dispatches`
+   - Method: `POST`
+   - Headers:
+     ```
+     Authorization: Bearer <你的PAT>
+     Accept: application/vnd.github+json
+     Content-Type: application/json
+     ```
+   - Body: `{"ref":"main","inputs":{"task":"words"}}`
+
+   **Job 2 — 每天 22:00（台灣時間）：複習提醒**
+   - 同上 URL / Method / Headers
+   - Body: `{"ref":"main","inputs":{"task":"review"}}`
+
+3. `send_words.py` / `send_review.py` 內建防重複機制（檢查
+   `progress.json` 的 `last_sent_date` / `last_review_date`），同一天
+   重複觸發只會送一次。
+
+### 6. 手動測試
+
+到 GitHub repo 的 Actions 頁籤，選這個 workflow，點 **Run workflow**，
+選擇 `task`（`words` 或 `review`）手動觸發測試。
 
 ## PAT 到期提醒
 
