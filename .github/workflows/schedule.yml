@@ -2,8 +2,8 @@ name: Tabi Shoku Hiyori LINE Bot
 
 on:
   schedule:
-    # 每天 10:00 (台灣時間) = UTC 02:00 -> 推送新單字
-    - cron: "0 2 * * *"
+    # TEST: 暫時改成台灣時間 11:52 (UTC 03:52) 測試排程觸發
+    - cron: "52 3 * * *"
     # 每天 22:00 (台灣時間) = UTC 14:00 -> 推送複習提醒
     - cron: "0 14 * * *"
   workflow_dispatch:
@@ -22,7 +22,7 @@ jobs:
         run: pip install -r requirements.txt
 
       - name: Send new words (10:00)
-        if: github.event.schedule == '0 2 * * *'
+        if: github.event.schedule == '52 3 * * *'
         env:
           LINE_CHANNEL_ACCESS_TOKEN: ${{ secrets.LINE_CHANNEL_ACCESS_TOKEN }}
           LINE_USER_ID: ${{ secrets.LINE_USER_ID }}
@@ -36,7 +36,7 @@ jobs:
         run: python send_review.py
 
       - name: Commit updated progress
-        if: github.event.schedule == '0 2 * * *'
+        if: github.event.schedule == '52 3 * * *'
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
