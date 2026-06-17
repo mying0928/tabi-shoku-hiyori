@@ -5,94 +5,94 @@
   "today_words": {
     "travel": [
       {
-        "word": "おんせん",
-        "kana": "おんせん",
-        "meaning": "溫泉",
+        "word": "駅",
+        "kana": "えき",
+        "meaning": "車站",
         "level": "N5"
       },
       {
-        "word": "外国",
-        "kana": "がいこく",
-        "meaning": "外國",
+        "word": "きっぷ",
+        "kana": "きっぷ",
+        "meaning": "票",
         "level": "N5"
       },
       {
-        "word": "かばん",
-        "kana": "かばん",
-        "meaning": "包",
+        "word": "空港",
+        "kana": "くうこう",
+        "meaning": "機場",
         "level": "N5"
       },
       {
-        "word": "カメラ",
-        "kana": "カメラ",
-        "meaning": "照相機",
+        "word": "車",
+        "kana": "くるま",
+        "meaning": "車",
         "level": "N5"
       },
       {
-        "word": "チェックインします",
-        "kana": "チェックインします",
-        "meaning": "登記、辦理手續",
+        "word": "自転車",
+        "kana": "じてんしゃ",
+        "meaning": "自行車",
         "level": "N5"
       },
       {
-        "word": "出かけます",
-        "kana": "でかけます",
-        "meaning": "出門",
+        "word": "しんかんせん",
+        "kana": "しんかんせん",
+        "meaning": "新幹線",
         "level": "N5"
       }
     ],
     "menu": [
       {
-        "word": "アイスクリーム",
-        "kana": "アイスクリーム",
-        "meaning": "冰淇淋",
+        "word": "お弁当",
+        "kana": "おべんとう",
+        "meaning": "便當",
         "level": "N5"
       },
       {
-        "word": "おかし",
-        "kana": "おかし",
-        "meaning": "零食",
+        "word": "カレー",
+        "kana": "カレー",
+        "meaning": "咖哩",
         "level": "N5"
       },
       {
-        "word": "ケーキ",
-        "kana": "ケーキ",
-        "meaning": "蛋糕",
+        "word": "ご飯",
+        "kana": "ごはん",
+        "meaning": "飯",
         "level": "N5"
       },
       {
-        "word": "メロン",
-        "kana": "メロン",
-        "meaning": "哈密瓜",
+        "word": "魚",
+        "kana": "さかな",
+        "meaning": "魚",
         "level": "N5"
       },
       {
-        "word": "リンゴ",
-        "kana": "リンゴ",
-        "meaning": "蘋果",
+        "word": "さしみ",
+        "kana": "さしみ",
+        "meaning": "生魚片",
         "level": "N5"
       },
       {
-        "word": "くだもの",
-        "kana": "くだもの",
-        "meaning": "水果",
+        "word": "サンドイッチ",
+        "kana": "サンドイッチ",
+        "meaning": "三明治",
         "level": "N5"
       },
       {
-        "word": "お酒",
-        "kana": "おさけ",
-        "meaning": "酒",
+        "word": "食事",
+        "kana": "しょくじ",
+        "meaning": "用餐",
         "level": "N5"
       },
       {
-        "word": "お茶",
-        "kana": "おちゃ",
-        "meaning": "茶",
+        "word": "たまご",
+        "kana": "たまご",
+        "meaning": "雞蛋",
         "level": "N5"
       }
     ]
   },
   "last_sent_date": "2026-06-17",
   "last_review_date": "2026-06-16",
-  "today_day": 3
+  "today_day": 1
 }
