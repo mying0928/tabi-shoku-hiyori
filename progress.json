@@ -1,98 +1,98 @@
 {
-  "travel_index": 18,
-  "menu_index": 24,
-  "day": 4,
+  "travel_index": 24,
+  "menu_index": 32,
+  "day": 5,
   "today_words": {
     "travel": [
       {
-        "word": "駅",
-        "kana": "えき",
-        "meaning": "車站",
+        "word": "荷物",
+        "kana": "にもつ",
+        "meaning": "行李、隨身物品",
         "level": "N5"
       },
       {
-        "word": "きっぷ",
-        "kana": "きっぷ",
-        "meaning": "票",
+        "word": "ホテル",
+        "kana": "ホテル",
+        "meaning": "飯店",
         "level": "N5"
       },
       {
-        "word": "空港",
-        "kana": "くうこう",
-        "meaning": "機場",
+        "word": "旅行（を）します",
+        "kana": "りょこう（を）します",
+        "meaning": "旅行",
         "level": "N5"
       },
       {
-        "word": "車",
-        "kana": "くるま",
-        "meaning": "車",
+        "word": "よやくします",
+        "kana": "よやくします",
+        "meaning": "預約",
         "level": "N5"
       },
       {
-        "word": "自転車",
-        "kana": "じてんしゃ",
-        "meaning": "自行車",
+        "word": "休み",
+        "kana": "やすみ",
+        "meaning": "休假",
         "level": "N5"
       },
       {
-        "word": "しんかんせん",
-        "kana": "しんかんせん",
-        "meaning": "新幹線",
+        "word": "海",
+        "kana": "うみ",
+        "meaning": "海",
         "level": "N5"
       }
     ],
     "menu": [
       {
-        "word": "お弁当",
-        "kana": "おべんとう",
-        "meaning": "便當",
+        "word": "お飲み物",
+        "kana": "おのみもの",
+        "meaning": "飲料",
         "level": "N5"
       },
       {
-        "word": "カレー",
-        "kana": "カレー",
-        "meaning": "咖哩",
+        "word": "牛乳",
+        "kana": "ぎゅうにゅう",
+        "meaning": "牛奶",
         "level": "N5"
       },
       {
-        "word": "ご飯",
-        "kana": "ごはん",
-        "meaning": "飯",
+        "word": "こう茶",
+        "kana": "こうちゃ",
+        "meaning": "紅茶",
         "level": "N5"
       },
       {
-        "word": "魚",
-        "kana": "さかな",
-        "meaning": "魚",
+        "word": "コーヒー",
+        "kana": "コーヒー",
+        "meaning": "咖啡",
         "level": "N5"
       },
       {
-        "word": "さしみ",
-        "kana": "さしみ",
-        "meaning": "生魚片",
+        "word": "ジュース",
+        "kana": "ジュース",
+        "meaning": "果汁",
         "level": "N5"
       },
       {
-        "word": "サンドイッチ",
-        "kana": "サンドイッチ",
-        "meaning": "三明治",
+        "word": "飲み物",
+        "kana": "のみもの",
+        "meaning": "飲料",
         "level": "N5"
       },
       {
-        "word": "食事",
-        "kana": "しょくじ",
-        "meaning": "用餐",
+        "word": "水",
+        "kana": "みず",
+        "meaning": "水",
         "level": "N5"
       },
       {
-        "word": "たまご",
-        "kana": "たまご",
-        "meaning": "雞蛋",
+        "word": "ワイン",
+        "kana": "ワイン",
+        "meaning": "葡萄酒",
         "level": "N5"
       }
     ]
   },
-  "last_sent_date": "2026-06-17",
+  "last_sent_date": "2026-06-18",
   "last_review_date": "2026-06-17",
-  "today_day": 1
+  "today_day": 4
 }
