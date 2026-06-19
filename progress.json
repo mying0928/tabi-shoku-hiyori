@@ -1,98 +1,98 @@
 {
-  "travel_index": 24,
-  "menu_index": 32,
-  "day": 5,
+  "travel_index": 30,
+  "menu_index": 40,
+  "day": 6,
   "today_words": {
     "travel": [
       {
-        "word": "荷物",
-        "kana": "にもつ",
-        "meaning": "行李、隨身物品",
+        "word": "公園",
+        "kana": "こうえん",
+        "meaning": "公園",
         "level": "N5"
       },
       {
-        "word": "ホテル",
-        "kana": "ホテル",
-        "meaning": "飯店",
+        "word": "道",
+        "kana": "みち",
+        "meaning": "路",
         "level": "N5"
       },
       {
-        "word": "旅行（を）します",
-        "kana": "りょこう（を）します",
-        "meaning": "旅行",
+        "word": "近く",
+        "kana": "ちかく",
+        "meaning": "附近",
         "level": "N5"
       },
       {
-        "word": "よやくします",
-        "kana": "よやくします",
-        "meaning": "預約",
+        "word": "おてら",
+        "kana": "おてら",
+        "meaning": "廟、寺廟",
         "level": "N5"
       },
       {
-        "word": "休み",
-        "kana": "やすみ",
-        "meaning": "休假",
+        "word": "びじゅつ館",
+        "kana": "びじゅつかん",
+        "meaning": "美術館",
         "level": "N5"
       },
       {
-        "word": "海",
-        "kana": "うみ",
-        "meaning": "海",
+        "word": "動物園",
+        "kana": "どうぶつえん",
+        "meaning": "動物園",
         "level": "N5"
       }
     ],
     "menu": [
       {
-        "word": "お飲み物",
-        "kana": "おのみもの",
-        "meaning": "飲料",
+        "word": "ビール",
+        "kana": "ビール",
+        "meaning": "啤酒",
         "level": "N5"
       },
       {
-        "word": "牛乳",
-        "kana": "ぎゅうにゅう",
-        "meaning": "牛奶",
+        "word": "きっさ店",
+        "kana": "きっさてん",
+        "meaning": "咖啡店",
         "level": "N5"
       },
       {
-        "word": "こう茶",
-        "kana": "こうちゃ",
-        "meaning": "紅茶",
+        "word": "食堂",
+        "kana": "しょくどう",
+        "meaning": "食堂",
         "level": "N5"
       },
       {
-        "word": "コーヒー",
-        "kana": "コーヒー",
-        "meaning": "咖啡",
+        "word": "パン屋",
+        "kana": "パンや",
+        "meaning": "麵包店",
         "level": "N5"
       },
       {
-        "word": "ジュース",
-        "kana": "ジュース",
-        "meaning": "果汁",
+        "word": "レストラン",
+        "kana": "レストラン",
+        "meaning": "餐廳",
         "level": "N5"
       },
       {
-        "word": "飲み物",
-        "kana": "のみもの",
-        "meaning": "飲料",
+        "word": "おいしい",
+        "kana": "おいしい",
+        "meaning": "好吃",
         "level": "N5"
       },
       {
-        "word": "水",
-        "kana": "みず",
-        "meaning": "水",
+        "word": "食べ物",
+        "kana": "たべもの",
+        "meaning": "食物",
         "level": "N5"
       },
       {
-        "word": "ワイン",
-        "kana": "ワイン",
-        "meaning": "葡萄酒",
+        "word": "注文します",
+        "kana": "ちゅうもんします",
+        "meaning": "點菜",
         "level": "N5"
       }
     ]
   },
-  "last_sent_date": "2026-06-18",
+  "last_sent_date": "2026-06-19",
   "last_review_date": "2026-06-18",
-  "today_day": 4
+  "today_day": 5
 }
