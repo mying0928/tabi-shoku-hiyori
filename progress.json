@@ -1,98 +1,98 @@
 {
-  "travel_index": 30,
-  "menu_index": 40,
-  "day": 6,
+  "travel_index": 36,
+  "menu_index": 48,
+  "day": 7,
   "today_words": {
     "travel": [
       {
-        "word": "公園",
-        "kana": "こうえん",
-        "meaning": "公園",
+        "word": "スーパー",
+        "kana": "スーパー",
+        "meaning": "超市",
         "level": "N5"
       },
       {
-        "word": "道",
-        "kana": "みち",
-        "meaning": "路",
+        "word": "コンビニ",
+        "kana": "コンビニ",
+        "meaning": "便利商店",
         "level": "N5"
       },
       {
-        "word": "近く",
-        "kana": "ちかく",
-        "meaning": "附近",
+        "word": "こうばん",
+        "kana": "こうばん",
+        "meaning": "派出所",
         "level": "N5"
       },
       {
-        "word": "おてら",
-        "kana": "おてら",
-        "meaning": "廟、寺廟",
+        "word": "歩きます",
+        "kana": "あるきます",
+        "meaning": "走路",
         "level": "N5"
       },
       {
-        "word": "びじゅつ館",
-        "kana": "びじゅつかん",
-        "meaning": "美術館",
+        "word": "まっすぐ",
+        "kana": "まっすぐ",
+        "meaning": "筆直",
         "level": "N5"
       },
       {
-        "word": "動物園",
-        "kana": "どうぶつえん",
-        "meaning": "動物園",
+        "word": "東",
+        "kana": "ひがし",
+        "meaning": "東",
         "level": "N5"
       }
     ],
     "menu": [
       {
-        "word": "ビール",
-        "kana": "ビール",
-        "meaning": "啤酒",
+        "word": "わさび",
+        "kana": "わさび",
+        "meaning": "芥末",
         "level": "N5"
       },
       {
-        "word": "きっさ店",
-        "kana": "きっさてん",
-        "meaning": "咖啡店",
+        "word": "からい",
+        "kana": "からい",
+        "meaning": "辣",
         "level": "N5"
       },
       {
-        "word": "食堂",
-        "kana": "しょくどう",
-        "meaning": "食堂",
+        "word": "つめたい",
+        "kana": "つめたい",
+        "meaning": "冷、冰",
         "level": "N5"
       },
       {
-        "word": "パン屋",
-        "kana": "パンや",
-        "meaning": "麵包店",
+        "word": "コップ",
+        "kana": "コップ",
+        "meaning": "杯子",
         "level": "N5"
       },
       {
-        "word": "レストラン",
-        "kana": "レストラン",
-        "meaning": "餐廳",
+        "word": "食べます",
+        "kana": "たべます",
+        "meaning": "吃",
         "level": "N5"
       },
       {
-        "word": "おいしい",
-        "kana": "おいしい",
-        "meaning": "好吃",
+        "word": "飲みます",
+        "kana": "のみます",
+        "meaning": "喝",
         "level": "N5"
       },
       {
-        "word": "食べ物",
-        "kana": "たべもの",
-        "meaning": "食物",
+        "word": "ナイフ",
+        "kana": "ナイフ",
+        "meaning": "小刀",
         "level": "N5"
       },
       {
-        "word": "注文します",
-        "kana": "ちゅうもんします",
-        "meaning": "點菜",
+        "word": "スプーン",
+        "kana": "スプーン",
+        "meaning": "湯匙",
         "level": "N5"
       }
     ]
   },
-  "last_sent_date": "2026-06-19",
+  "last_sent_date": "2026-06-20",
   "last_review_date": "2026-06-19",
-  "today_day": 5
+  "today_day": 6
 }
