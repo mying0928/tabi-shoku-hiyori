@@ -1,98 +1,98 @@
 {
-  "travel_index": 48,
-  "menu_index": 64,
-  "day": 9,
+  "travel_index": 54,
+  "menu_index": 72,
+  "day": 10,
   "today_words": {
     "travel": [
       {
-        "word": "映画館",
-        "kana": "えいがかん",
-        "meaning": "電影院",
-        "level": "N5"
-      },
-      {
-        "word": "町",
-        "kana": "まち",
-        "meaning": "鎮、城市",
-        "level": "N5"
-      },
-      {
-        "word": "駅員",
-        "kana": "えきいん",
-        "meaning": "站務員",
+        "word": "自動車",
+        "kana": "じどうしゃ",
+        "meaning": "汽車",
         "level": "N4"
       },
       {
-        "word": "駅前",
-        "kana": "えきまえ",
-        "meaning": "車站前",
+        "word": "自転車置き場",
+        "kana": "じてんしゃおきば",
+        "meaning": "自行車停放處",
         "level": "N4"
       },
       {
-        "word": "ガソリン",
-        "kana": "ガソリン",
-        "meaning": "汽油",
+        "word": "新幹線",
+        "kana": "しんかんせん",
+        "meaning": "新幹線",
         "level": "N4"
       },
       {
-        "word": "交通",
-        "kana": "こうつう",
-        "meaning": "交通",
+        "word": "タクシー乗り場",
+        "kana": "タクシーのりば",
+        "meaning": "計程車乘車處",
+        "level": "N4"
+      },
+      {
+        "word": "駐車",
+        "kana": "ちゅうしゃ",
+        "meaning": "停車",
+        "level": "N4"
+      },
+      {
+        "word": "電車",
+        "kana": "でんしゃ",
+        "meaning": "電車",
         "level": "N4"
       }
     ],
     "menu": [
       {
-        "word": "てんぷら",
-        "kana": "てんぷら",
-        "meaning": "天婦羅",
+        "word": "チョコレートケーキ",
+        "kana": "チョコレートケーキ",
+        "meaning": "巧克力蛋糕",
         "level": "N4"
       },
       {
-        "word": "なっとう",
-        "kana": "なっとう",
-        "meaning": "納豆",
-        "level": "N4"
-      },
-      {
-        "word": "肉",
-        "kana": "にく",
-        "meaning": "肉",
-        "level": "N4"
-      },
-      {
-        "word": "焼く",
-        "kana": "やく",
-        "meaning": "烤、煎",
-        "level": "N4"
-      },
-      {
-        "word": "夕飯",
-        "kana": "ゆうはん",
-        "meaning": "晚餐",
-        "level": "N4"
-      },
-      {
-        "word": "ランチ",
-        "kana": "ランチ",
-        "meaning": "午餐",
-        "level": "N4"
-      },
-      {
-        "word": "のこす",
-        "kana": "のこす",
-        "meaning": "剩下",
-        "level": "N4"
-      },
-      {
-        "word": "あまいもの",
-        "kana": "あまいもの",
+        "word": "デザート",
+        "kana": "デザート",
         "meaning": "甜品",
+        "level": "N4"
+      },
+      {
+        "word": "フルーツソース",
+        "kana": "フルーツソース",
+        "meaning": "果醬",
+        "level": "N4"
+      },
+      {
+        "word": "ホワイトチョコレート",
+        "kana": "ホワイトチョコレート",
+        "meaning": "白巧克力",
+        "level": "N4"
+      },
+      {
+        "word": "ミカン",
+        "kana": "ミカン",
+        "meaning": "橘子",
+        "level": "N4"
+      },
+      {
+        "word": "お湯",
+        "kana": "おゆ",
+        "meaning": "開水",
+        "level": "N4"
+      },
+      {
+        "word": "日本酒",
+        "kana": "にほんしゅ",
+        "meaning": "日本酒",
+        "level": "N4"
+      },
+      {
+        "word": "飲み水",
+        "kana": "のみみず",
+        "meaning": "飲用水",
         "level": "N4"
       }
     ]
   },
-  "last_sent_date": "2026-06-22",
+  "last_sent_date": "2026-06-23",
   "last_review_date": "2026-06-22",
-  "today_day": 8
+  "today_day": 9
 }
