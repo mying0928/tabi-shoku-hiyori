@@ -1,98 +1,98 @@
 {
-  "travel_index": 60,
-  "menu_index": 80,
-  "day": 11,
+  "travel_index": 66,
+  "menu_index": 88,
+  "day": 12,
   "today_words": {
     "travel": [
       {
-        "word": "ホーム",
-        "kana": "ホーム",
-        "meaning": "車站月臺",
+        "word": "キャンプ",
+        "kana": "キャンプ",
+        "meaning": "露營",
         "level": "N4"
       },
       {
-        "word": "ホームゲート",
-        "kana": "ホームゲート",
-        "meaning": "月臺安全門",
+        "word": "スケジュール",
+        "kana": "スケジュール",
+        "meaning": "行程表、計畫",
         "level": "N4"
       },
       {
-        "word": "ロープウェイ",
-        "kana": "ロープウェイ",
-        "meaning": "纜車",
+        "word": "世界旅行",
+        "kana": "せかいりょこう",
+        "meaning": "環遊世界",
         "level": "N4"
       },
       {
-        "word": "運転（を）する",
-        "kana": "うんてん（を）する",
-        "meaning": "駕駛",
+        "word": "地図",
+        "kana": "ちず",
+        "meaning": "地圖",
         "level": "N4"
       },
       {
-        "word": "案内（を）する",
-        "kana": "あんない（を）する",
-        "meaning": "帶路、導覽",
+        "word": "泊まる",
+        "kana": "とまる",
+        "meaning": "住、留宿",
         "level": "N4"
       },
       {
-        "word": "ガイドブック",
-        "kana": "ガイドブック",
-        "meaning": "指南",
+        "word": "パスポート",
+        "kana": "パスポート",
+        "meaning": "護照",
         "level": "N4"
       }
     ],
     "menu": [
       {
-        "word": "ミルク",
-        "kana": "ミルク",
-        "meaning": "牛奶",
+        "word": "にがい",
+        "kana": "にがい",
+        "meaning": "苦",
         "level": "N4"
       },
       {
-        "word": "ホット",
-        "kana": "ホット",
-        "meaning": "熱飲",
+        "word": "メニュー",
+        "kana": "メニュー",
+        "meaning": "菜單",
         "level": "N4"
       },
       {
-        "word": "ケーキ屋",
-        "kana": "ケーキや",
-        "meaning": "蛋糕店",
+        "word": "ごちそう（を）する",
+        "kana": "ごちそう（を）する",
+        "meaning": "請客、招待",
         "level": "N4"
       },
       {
-        "word": "屋台",
-        "kana": "やたい",
-        "meaning": "小吃攤",
+        "word": "わかす",
+        "kana": "わかす",
+        "meaning": "燒開水",
         "level": "N4"
       },
       {
-        "word": "ラーメン屋",
-        "kana": "ラーメンや",
-        "meaning": "拉麵店",
+        "word": "冷やす",
+        "kana": "ひやす",
+        "meaning": "冷卻、冰鎮",
         "level": "N4"
       },
       {
-        "word": "アイス",
-        "kana": "アイス",
-        "meaning": "冰",
+        "word": "混ぜる",
+        "kana": "まぜる",
+        "meaning": "混合、攪拌",
         "level": "N4"
       },
       {
-        "word": "味",
-        "kana": "あじ",
-        "meaning": "味道",
+        "word": "むく",
+        "kana": "むく",
+        "meaning": "削、剝皮",
         "level": "N4"
       },
       {
-        "word": "さとう",
-        "kana": "さとう",
-        "meaning": "砂糖",
+        "word": "お皿",
+        "kana": "おさら",
+        "meaning": "盤子",
         "level": "N4"
       }
     ]
   },
-  "last_sent_date": "2026-06-24",
+  "last_sent_date": "2026-06-25",
   "last_review_date": "2026-06-24",
-  "today_day": 10
+  "today_day": 11
 }
