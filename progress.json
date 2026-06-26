@@ -1,98 +1,98 @@
 {
-  "travel_index": 66,
-  "menu_index": 88,
-  "day": 12,
+  "travel_index": 72,
+  "menu_index": 96,
+  "day": 13,
   "today_words": {
     "travel": [
       {
-        "word": "キャンプ",
-        "kana": "キャンプ",
-        "meaning": "露營",
+        "word": "ビザ",
+        "kana": "ビザ",
+        "meaning": "簽證",
         "level": "N4"
       },
       {
-        "word": "スケジュール",
-        "kana": "スケジュール",
-        "meaning": "行程表、計畫",
+        "word": "遊園地",
+        "kana": "ゆうえんち",
+        "meaning": "遊樂園",
         "level": "N4"
       },
       {
-        "word": "世界旅行",
-        "kana": "せかいりょこう",
-        "meaning": "環遊世界",
+        "word": "旅館",
+        "kana": "りょかん",
+        "meaning": "旅館",
         "level": "N4"
       },
       {
-        "word": "地図",
-        "kana": "ちず",
-        "meaning": "地圖",
+        "word": "出張（を）する",
+        "kana": "しゅっちょう（を）する",
+        "meaning": "出差",
         "level": "N4"
       },
       {
-        "word": "泊まる",
-        "kana": "とまる",
-        "meaning": "住、留宿",
+        "word": "海外",
+        "kana": "かいがい",
+        "meaning": "海外",
         "level": "N4"
       },
       {
-        "word": "パスポート",
-        "kana": "パスポート",
-        "meaning": "護照",
+        "word": "よてい",
+        "kana": "よてい",
+        "meaning": "計畫、預訂表",
         "level": "N4"
       }
     ],
     "menu": [
       {
-        "word": "にがい",
-        "kana": "にがい",
-        "meaning": "苦",
+        "word": "におい",
+        "kana": "におい",
+        "meaning": "氣味",
         "level": "N4"
       },
       {
-        "word": "メニュー",
-        "kana": "メニュー",
-        "meaning": "菜單",
+        "word": "あつい",
+        "kana": "あつい",
+        "meaning": "燙的",
         "level": "N4"
       },
       {
-        "word": "ごちそう（を）する",
-        "kana": "ごちそう（を）する",
-        "meaning": "請客、招待",
+        "word": "やわらかい",
+        "kana": "やわらかい",
+        "meaning": "軟的",
         "level": "N4"
       },
       {
-        "word": "わかす",
-        "kana": "わかす",
-        "meaning": "燒開水",
+        "word": "かたい",
+        "kana": "かたい",
+        "meaning": "硬的",
         "level": "N4"
       },
       {
-        "word": "冷やす",
-        "kana": "ひやす",
-        "meaning": "冷卻、冰鎮",
+        "word": "カップ",
+        "kana": "カップ",
+        "meaning": "杯子",
         "level": "N4"
       },
       {
-        "word": "混ぜる",
-        "kana": "まぜる",
-        "meaning": "混合、攪拌",
+        "word": "甘い",
+        "kana": "あまい",
+        "meaning": "甜的",
         "level": "N4"
       },
       {
-        "word": "むく",
-        "kana": "むく",
-        "meaning": "削、剝皮",
+        "word": "えらぶ",
+        "kana": "えらぶ",
+        "meaning": "選擇",
         "level": "N4"
       },
       {
-        "word": "お皿",
-        "kana": "おさら",
-        "meaning": "盤子",
+        "word": "ご自由（に）",
+        "kana": "ごじゆう（に）",
+        "meaning": "隨意地",
         "level": "N4"
       }
     ]
   },
-  "last_sent_date": "2026-06-25",
+  "last_sent_date": "2026-06-26",
   "last_review_date": "2026-06-25",
-  "today_day": 11
+  "today_day": 12
 }
