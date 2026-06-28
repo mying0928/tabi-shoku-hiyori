@@ -1,98 +1,98 @@
 {
-  "travel_index": 78,
-  "menu_index": 104,
-  "day": 14,
+  "travel_index": 84,
+  "menu_index": 112,
+  "day": 15,
   "today_words": {
     "travel": [
       {
-        "word": "予約（を）する",
-        "kana": "よやく（を）する",
-        "meaning": "預約",
+        "word": "曲がる",
+        "kana": "まがる",
+        "meaning": "轉彎",
         "level": "N4"
       },
       {
-        "word": "紅葉",
-        "kana": "こうよう",
-        "meaning": "楓葉",
+        "word": "橋",
+        "kana": "はし",
+        "meaning": "橋",
         "level": "N4"
       },
       {
-        "word": "神社",
-        "kana": "じんじゃ",
-        "meaning": "神社",
+        "word": "渡る",
+        "kana": "わたる",
+        "meaning": "過馬路",
         "level": "N4"
       },
       {
-        "word": "山登り",
-        "kana": "やまのぼり",
-        "meaning": "登山",
+        "word": "遠い",
+        "kana": "とおい",
+        "meaning": "遠的",
         "level": "N4"
       },
       {
-        "word": "帰り道",
-        "kana": "かえりみち",
-        "meaning": "回家的路",
+        "word": "遅れる",
+        "kana": "おくれる",
+        "meaning": "遲到",
         "level": "N4"
       },
       {
-        "word": "信号",
-        "kana": "しんごう",
-        "meaning": "紅綠燈",
+        "word": "おつり",
+        "kana": "おつり",
+        "meaning": "找錢",
         "level": "N4"
       }
     ],
     "menu": [
       {
-        "word": "うどん",
-        "kana": "うどん",
-        "meaning": "烏龍麵",
+        "word": "食材",
+        "kana": "しょくざい",
+        "meaning": "食材",
         "level": "N3"
       },
       {
-        "word": "うなぎ",
-        "kana": "うなぎ",
-        "meaning": "鰻魚",
+        "word": "スパゲティ",
+        "kana": "スパゲティ",
+        "meaning": "義大利麵",
         "level": "N3"
       },
       {
-        "word": "えび",
-        "kana": "えび",
-        "meaning": "蝦",
+        "word": "チーズ",
+        "kana": "チーズ",
+        "meaning": "起司",
         "level": "N3"
       },
       {
-        "word": "牛丼屋",
-        "kana": "ぎゅうどんや",
-        "meaning": "牛肉蓋飯店",
+        "word": "朝食",
+        "kana": "ちょうしょく",
+        "meaning": "早餐",
         "level": "N3"
       },
       {
-        "word": "キュウリ",
-        "kana": "キュウリ",
-        "meaning": "黃瓜",
+        "word": "ディナー",
+        "kana": "ディナー",
+        "meaning": "晚餐",
         "level": "N3"
       },
       {
-        "word": "こしょう",
-        "kana": "こしょう",
-        "meaning": "胡椒",
+        "word": "豆腐",
+        "kana": "とうふ",
+        "meaning": "豆腐",
         "level": "N3"
       },
       {
-        "word": "小麦粉",
-        "kana": "こむぎこ",
-        "meaning": "麵粉",
+        "word": "とり肉",
+        "kana": "とりにく",
+        "meaning": "雞肉",
         "level": "N3"
       },
       {
-        "word": "サラダ",
-        "kana": "サラダ",
-        "meaning": "沙拉",
+        "word": "ナス",
+        "kana": "ナス",
+        "meaning": "茄子",
         "level": "N3"
       }
     ]
   },
-  "last_sent_date": "2026-06-27",
+  "last_sent_date": "2026-06-28",
   "last_review_date": "2026-06-27",
-  "today_day": 13
+  "today_day": 14
 }
