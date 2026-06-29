@@ -1,98 +1,98 @@
 {
-  "travel_index": 84,
-  "menu_index": 112,
-  "day": 15,
+  "travel_index": 90,
+  "menu_index": 120,
+  "day": 16,
   "today_words": {
     "travel": [
       {
-        "word": "曲がる",
-        "kana": "まがる",
-        "meaning": "轉彎",
+        "word": "シートベルト",
+        "kana": "シートベルト",
+        "meaning": "安全帶",
         "level": "N4"
       },
       {
-        "word": "橋",
-        "kana": "はし",
-        "meaning": "橋",
+        "word": "なくす",
+        "kana": "なくす",
+        "meaning": "弄丟",
         "level": "N4"
       },
       {
-        "word": "渡る",
-        "kana": "わたる",
-        "meaning": "過馬路",
+        "word": "入口",
+        "kana": "いりぐち",
+        "meaning": "入口",
         "level": "N4"
       },
       {
-        "word": "遠い",
-        "kana": "とおい",
-        "meaning": "遠的",
+        "word": "出口",
+        "kana": "でぐち",
+        "meaning": "出口",
         "level": "N4"
       },
       {
-        "word": "遅れる",
-        "kana": "おくれる",
-        "meaning": "遲到",
-        "level": "N4"
+        "word": "機内",
+        "kana": "きない",
+        "meaning": "機艙內",
+        "level": "N3"
       },
       {
-        "word": "おつり",
-        "kana": "おつり",
-        "meaning": "找錢",
-        "level": "N4"
+        "word": "急行",
+        "kana": "きゅうこう",
+        "meaning": "特快電車",
+        "level": "N3"
       }
     ],
     "menu": [
       {
-        "word": "食材",
-        "kana": "しょくざい",
-        "meaning": "食材",
+        "word": "納豆",
+        "kana": "なっとう",
+        "meaning": "納豆",
         "level": "N3"
       },
       {
-        "word": "スパゲティ",
-        "kana": "スパゲティ",
-        "meaning": "義大利麵",
+        "word": "生クリーム",
+        "kana": "なまクリーム",
+        "meaning": "生奶油",
         "level": "N3"
       },
       {
-        "word": "チーズ",
-        "kana": "チーズ",
-        "meaning": "起司",
+        "word": "鍋",
+        "kana": "なべ",
+        "meaning": "火鍋",
         "level": "N3"
       },
       {
-        "word": "朝食",
-        "kana": "ちょうしょく",
-        "meaning": "早餐",
+        "word": "にんじん",
+        "kana": "にんじん",
+        "meaning": "胡蘿蔔",
         "level": "N3"
       },
       {
-        "word": "ディナー",
-        "kana": "ディナー",
-        "meaning": "晚餐",
+        "word": "バーベキューパーティー",
+        "kana": "バーベキューパーティー",
+        "meaning": "燒烤派對",
         "level": "N3"
       },
       {
-        "word": "豆腐",
-        "kana": "とうふ",
-        "meaning": "豆腐",
+        "word": "ハム",
+        "kana": "ハム",
+        "meaning": "火腿",
         "level": "N3"
       },
       {
-        "word": "とり肉",
-        "kana": "とりにく",
-        "meaning": "雞肉",
+        "word": "ハンバーガー",
+        "kana": "ハンバーガー",
+        "meaning": "漢堡",
         "level": "N3"
       },
       {
-        "word": "ナス",
-        "kana": "ナス",
-        "meaning": "茄子",
+        "word": "ピザ",
+        "kana": "ピザ",
+        "meaning": "披薩",
         "level": "N3"
       }
     ]
   },
-  "last_sent_date": "2026-06-28",
+  "last_sent_date": "2026-06-29",
   "last_review_date": "2026-06-28",
-  "today_day": 14
+  "today_day": 15
 }
