@@ -1,98 +1,98 @@
 {
-  "travel_index": 96,
-  "menu_index": 128,
-  "day": 17,
+  "travel_index": 102,
+  "menu_index": 136,
+  "day": 18,
   "today_words": {
     "travel": [
       {
-        "word": "交通機関",
-        "kana": "こうつうきかん",
-        "meaning": "交通設施",
+        "word": "反対方向",
+        "kana": "はんたいほうこう",
+        "meaning": "反方向",
         "level": "N3"
       },
       {
-        "word": "交通の便がいい",
-        "kana": "こうつうのべんがいい",
-        "meaning": "交通便利",
+        "word": "海水浴",
+        "kana": "かいすいよく",
+        "meaning": "海水浴",
         "level": "N3"
       },
       {
-        "word": "終電",
-        "kana": "しゅうでん",
-        "meaning": "末班車",
+        "word": "観光客",
+        "kana": "かんこうきゃく",
+        "meaning": "遊客",
         "level": "N3"
       },
       {
-        "word": "ダイヤ",
-        "kana": "ダイヤ",
-        "meaning": "電車時刻表",
+        "word": "観光地",
+        "kana": "かんこうち",
+        "meaning": "觀光地",
         "level": "N3"
       },
       {
-        "word": "雪道",
-        "kana": "ゆきみち",
-        "meaning": "積雪的路",
+        "word": "宿泊（する）",
+        "kana": "しゅくはく（する）",
+        "meaning": "住宿",
         "level": "N3"
       },
       {
-        "word": "発車（する）",
-        "kana": "はっしゃ（する）",
-        "meaning": "發車",
+        "word": "スーツケース",
+        "kana": "スーツケース",
+        "meaning": "旅行箱",
         "level": "N3"
       }
     ],
     "menu": [
       {
-        "word": "ファストフード",
-        "kana": "ファストフード",
-        "meaning": "速食",
+        "word": "生",
+        "kana": "なま",
+        "meaning": "生的",
         "level": "N3"
       },
       {
-        "word": "ボウル",
-        "kana": "ボウル",
-        "meaning": "做菜用大碗",
+        "word": "塩",
+        "kana": "しお",
+        "meaning": "鹽",
         "level": "N3"
       },
       {
-        "word": "むね肉",
-        "kana": "むねにく",
-        "meaning": "雞胸肉",
+        "word": "トマト",
+        "kana": "トマト",
+        "meaning": "番茄",
         "level": "N3"
       },
       {
-        "word": "めん",
-        "kana": "めん",
-        "meaning": "麵條",
+        "word": "いちご",
+        "kana": "いちご",
+        "meaning": "草莓",
         "level": "N3"
       },
       {
-        "word": "もも肉",
-        "kana": "ももにく",
-        "meaning": "雞腿肉",
+        "word": "フルーツ",
+        "kana": "フルーツ",
+        "meaning": "水果",
         "level": "N3"
       },
       {
-        "word": "ゆでたまご",
-        "kana": "ゆでたまご",
-        "meaning": "水煮蛋",
+        "word": "ヨーグルト",
+        "kana": "ヨーグルト",
+        "meaning": "優格",
         "level": "N3"
       },
       {
-        "word": "和菓子",
-        "kana": "わがし",
-        "meaning": "日式點心",
+        "word": "はちみつ",
+        "kana": "はちみつ",
+        "meaning": "蜂蜜",
         "level": "N3"
       },
       {
-        "word": "新鮮",
-        "kana": "しんせん",
-        "meaning": "新鮮的",
+        "word": "クッキー",
+        "kana": "クッキー",
+        "meaning": "餅乾",
         "level": "N3"
       }
     ]
   },
-  "last_sent_date": "2026-06-30",
+  "last_sent_date": "2026-07-01",
   "last_review_date": "2026-06-30",
-  "today_day": 16
+  "today_day": 17
 }
