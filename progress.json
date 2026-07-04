@@ -1,98 +1,98 @@
 {
-  "travel_index": 114,
-  "menu_index": 152,
-  "day": 20,
+  "travel_index": 0,
+  "menu_index": 0,
+  "day": 1,
   "today_words": {
     "travel": [
       {
-        "word": "キャンセル（する）",
-        "kana": "キャンセル（する）",
-        "meaning": "取消",
+        "word": "頂上",
+        "kana": "ちょうじょう",
+        "meaning": "山頂",
         "level": "N3"
       },
       {
-        "word": "変更（する）",
-        "kana": "へんこう（する）",
-        "meaning": "變更",
+        "word": "名所",
+        "kana": "めいしょ",
+        "meaning": "名勝",
         "level": "N3"
       },
       {
-        "word": "手荷物",
-        "kana": "てにもつ",
-        "meaning": "手提行李",
+        "word": "田舎",
+        "kana": "いなか",
+        "meaning": "鄉下",
         "level": "N3"
       },
       {
-        "word": "手続き（する）",
-        "kana": "てつづき（する）",
-        "meaning": "辦理手續",
+        "word": "人混み",
+        "kana": "ひとごみ",
+        "meaning": "人群、人多",
         "level": "N3"
       },
       {
-        "word": "絵はがき",
-        "kana": "えはがき",
-        "meaning": "明信片",
+        "word": "駐車場",
+        "kana": "ちゅうしゃじょう",
+        "meaning": "停車場",
         "level": "N3"
       },
       {
-        "word": "渋滞（する）",
-        "kana": "じゅうたい（する）",
-        "meaning": "塞車",
+        "word": "港",
+        "kana": "みなと",
+        "meaning": "港口",
         "level": "N3"
       }
     ],
     "menu": [
       {
-        "word": "甘口",
-        "kana": "あまくち",
-        "meaning": "偏甜",
+        "word": "（お）はし",
+        "kana": "（お）はし",
+        "meaning": "筷子",
         "level": "N3"
       },
       {
-        "word": "カロリー",
-        "kana": "カロリー",
-        "meaning": "熱量",
+        "word": "のどがかわく",
+        "kana": "のどがかわく",
+        "meaning": "口渴",
         "level": "N3"
       },
       {
-        "word": "グルメ",
-        "kana": "グルメ",
-        "meaning": "美食",
+        "word": "アレルギー",
+        "kana": "アレルギー",
+        "meaning": "過敏",
         "level": "N3"
       },
       {
-        "word": "レシピ",
-        "kana": "レシピ",
-        "meaning": "食譜",
+        "word": "好き嫌い（する）",
+        "kana": "すききらい（する）",
+        "meaning": "挑食、好惡",
         "level": "N3"
       },
       {
-        "word": "栄養",
-        "kana": "えいよう",
-        "meaning": "營養",
+        "word": "持ち込み",
+        "kana": "もちこみ",
+        "meaning": "攜帶進入",
         "level": "N3"
       },
       {
-        "word": "ふっとうする",
-        "kana": "ふっとうする",
-        "meaning": "沸騰、燒開",
+        "word": "無料",
+        "kana": "むりょう",
+        "meaning": "免費",
         "level": "N3"
       },
       {
-        "word": "食中毒",
-        "kana": "しょくちゅうどく",
-        "meaning": "食物中毒",
+        "word": "半額",
+        "kana": "はんがく",
+        "meaning": "半價",
         "level": "N3"
       },
       {
-        "word": "フォーク",
-        "kana": "フォーク",
-        "meaning": "叉子",
+        "word": "～円引き",
+        "kana": "～えんびき",
+        "meaning": "折扣～日圓",
         "level": "N3"
       }
     ]
   },
-  "last_sent_date": "2026-07-03",
+  "last_sent_date": "2026-07-04",
   "last_review_date": "2026-07-03",
-  "today_day": 19
+  "today_day": 20
 }
