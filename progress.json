@@ -1,98 +1,98 @@
 {
-  "travel_index": 0,
-  "menu_index": 0,
-  "day": 1,
+  "travel_index": 6,
+  "menu_index": 8,
+  "day": 2,
   "today_words": {
     "travel": [
       {
-        "word": "頂上",
-        "kana": "ちょうじょう",
-        "meaning": "山頂",
-        "level": "N3"
+        "word": "駅",
+        "kana": "えき",
+        "meaning": "車站",
+        "level": "N5"
       },
       {
-        "word": "名所",
-        "kana": "めいしょ",
-        "meaning": "名勝",
-        "level": "N3"
+        "word": "きっぷ",
+        "kana": "きっぷ",
+        "meaning": "票",
+        "level": "N5"
       },
       {
-        "word": "田舎",
-        "kana": "いなか",
-        "meaning": "鄉下",
-        "level": "N3"
+        "word": "空港",
+        "kana": "くうこう",
+        "meaning": "機場",
+        "level": "N5"
       },
       {
-        "word": "人混み",
-        "kana": "ひとごみ",
-        "meaning": "人群、人多",
-        "level": "N3"
+        "word": "車",
+        "kana": "くるま",
+        "meaning": "車",
+        "level": "N5"
       },
       {
-        "word": "駐車場",
-        "kana": "ちゅうしゃじょう",
-        "meaning": "停車場",
-        "level": "N3"
+        "word": "自転車",
+        "kana": "じてんしゃ",
+        "meaning": "自行車",
+        "level": "N5"
       },
       {
-        "word": "港",
-        "kana": "みなと",
-        "meaning": "港口",
-        "level": "N3"
+        "word": "しんかんせん",
+        "kana": "しんかんせん",
+        "meaning": "新幹線",
+        "level": "N5"
       }
     ],
     "menu": [
       {
-        "word": "（お）はし",
-        "kana": "（お）はし",
-        "meaning": "筷子",
-        "level": "N3"
+        "word": "お弁当",
+        "kana": "おべんとう",
+        "meaning": "便當",
+        "level": "N5"
       },
       {
-        "word": "のどがかわく",
-        "kana": "のどがかわく",
-        "meaning": "口渴",
-        "level": "N3"
+        "word": "カレー",
+        "kana": "カレー",
+        "meaning": "咖哩",
+        "level": "N5"
       },
       {
-        "word": "アレルギー",
-        "kana": "アレルギー",
-        "meaning": "過敏",
-        "level": "N3"
+        "word": "ご飯",
+        "kana": "ごはん",
+        "meaning": "飯",
+        "level": "N5"
       },
       {
-        "word": "好き嫌い（する）",
-        "kana": "すききらい（する）",
-        "meaning": "挑食、好惡",
-        "level": "N3"
+        "word": "魚",
+        "kana": "さかな",
+        "meaning": "魚",
+        "level": "N5"
       },
       {
-        "word": "持ち込み",
-        "kana": "もちこみ",
-        "meaning": "攜帶進入",
-        "level": "N3"
+        "word": "さしみ",
+        "kana": "さしみ",
+        "meaning": "生魚片",
+        "level": "N5"
       },
       {
-        "word": "無料",
-        "kana": "むりょう",
-        "meaning": "免費",
-        "level": "N3"
+        "word": "サンドイッチ",
+        "kana": "サンドイッチ",
+        "meaning": "三明治",
+        "level": "N5"
       },
       {
-        "word": "半額",
-        "kana": "はんがく",
-        "meaning": "半價",
-        "level": "N3"
+        "word": "食事",
+        "kana": "しょくじ",
+        "meaning": "用餐",
+        "level": "N5"
       },
       {
-        "word": "～円引き",
-        "kana": "～えんびき",
-        "meaning": "折扣～日圓",
-        "level": "N3"
+        "word": "たまご",
+        "kana": "たまご",
+        "meaning": "雞蛋",
+        "level": "N5"
       }
     ]
   },
-  "last_sent_date": "2026-07-04",
+  "last_sent_date": "2026-07-05",
   "last_review_date": "2026-07-04",
-  "today_day": 20
+  "today_day": 1
 }
