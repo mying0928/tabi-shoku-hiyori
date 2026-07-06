@@ -1,98 +1,98 @@
 {
-  "travel_index": 6,
-  "menu_index": 8,
-  "day": 2,
+  "travel_index": 12,
+  "menu_index": 16,
+  "day": 3,
   "today_words": {
     "travel": [
       {
-        "word": "駅",
-        "kana": "えき",
-        "meaning": "車站",
+        "word": "タクシー",
+        "kana": "タクシー",
+        "meaning": "計程車",
         "level": "N5"
       },
       {
-        "word": "きっぷ",
-        "kana": "きっぷ",
+        "word": "地下鉄",
+        "kana": "ちかてつ",
+        "meaning": "地鐵",
+        "level": "N5"
+      },
+      {
+        "word": "チケット",
+        "kana": "チケット",
         "meaning": "票",
         "level": "N5"
       },
       {
-        "word": "空港",
-        "kana": "くうこう",
-        "meaning": "機場",
+        "word": "バス",
+        "kana": "バス",
+        "meaning": "巴士",
         "level": "N5"
       },
       {
-        "word": "車",
-        "kana": "くるま",
-        "meaning": "車",
+        "word": "飛行機",
+        "kana": "ひこうき",
+        "meaning": "飛機",
         "level": "N5"
       },
       {
-        "word": "自転車",
-        "kana": "じてんしゃ",
-        "meaning": "自行車",
-        "level": "N5"
-      },
-      {
-        "word": "しんかんせん",
-        "kana": "しんかんせん",
-        "meaning": "新幹線",
+        "word": "おみやげ",
+        "kana": "おみやげ",
+        "meaning": "伴手禮",
         "level": "N5"
       }
     ],
     "menu": [
       {
-        "word": "お弁当",
-        "kana": "おべんとう",
-        "meaning": "便當",
+        "word": "パスタ",
+        "kana": "パスタ",
+        "meaning": "義大利麵",
         "level": "N5"
       },
       {
-        "word": "カレー",
-        "kana": "カレー",
-        "meaning": "咖哩",
+        "word": "パン",
+        "kana": "パン",
+        "meaning": "麵包",
         "level": "N5"
       },
       {
-        "word": "ご飯",
-        "kana": "ごはん",
-        "meaning": "飯",
+        "word": "晩ご飯",
+        "kana": "ばんごはん",
+        "meaning": "晚餐",
         "level": "N5"
       },
       {
-        "word": "魚",
-        "kana": "さかな",
-        "meaning": "魚",
+        "word": "昼ご飯",
+        "kana": "ひるごはん",
+        "meaning": "午餐",
         "level": "N5"
       },
       {
-        "word": "さしみ",
-        "kana": "さしみ",
-        "meaning": "生魚片",
+        "word": "野菜",
+        "kana": "やさい",
+        "meaning": "蔬菜",
         "level": "N5"
       },
       {
-        "word": "サンドイッチ",
-        "kana": "サンドイッチ",
-        "meaning": "三明治",
+        "word": "ラーメン",
+        "kana": "ラーメン",
+        "meaning": "拉麵",
         "level": "N5"
       },
       {
-        "word": "食事",
-        "kana": "しょくじ",
-        "meaning": "用餐",
+        "word": "料理",
+        "kana": "りょうり",
+        "meaning": "料理、菜",
         "level": "N5"
       },
       {
-        "word": "たまご",
-        "kana": "たまご",
-        "meaning": "雞蛋",
+        "word": "おなかがすきます",
+        "kana": "おなかがすきます",
+        "meaning": "肚子餓",
         "level": "N5"
       }
     ]
   },
-  "last_sent_date": "2026-07-05",
+  "last_sent_date": "2026-07-06",
   "last_review_date": "2026-07-05",
-  "today_day": 1
+  "today_day": 2
 }
