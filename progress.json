@@ -1,98 +1,98 @@
 {
-  "travel_index": 12,
-  "menu_index": 16,
-  "day": 3,
+  "travel_index": 18,
+  "menu_index": 24,
+  "day": 4,
   "today_words": {
     "travel": [
       {
-        "word": "タクシー",
-        "kana": "タクシー",
-        "meaning": "計程車",
+        "word": "おんせん",
+        "kana": "おんせん",
+        "meaning": "溫泉",
         "level": "N5"
       },
       {
-        "word": "地下鉄",
-        "kana": "ちかてつ",
-        "meaning": "地鐵",
+        "word": "外国",
+        "kana": "がいこく",
+        "meaning": "外國",
         "level": "N5"
       },
       {
-        "word": "チケット",
-        "kana": "チケット",
-        "meaning": "票",
+        "word": "かばん",
+        "kana": "かばん",
+        "meaning": "包",
         "level": "N5"
       },
       {
-        "word": "バス",
-        "kana": "バス",
-        "meaning": "巴士",
+        "word": "カメラ",
+        "kana": "カメラ",
+        "meaning": "照相機",
         "level": "N5"
       },
       {
-        "word": "飛行機",
-        "kana": "ひこうき",
-        "meaning": "飛機",
+        "word": "チェックインします",
+        "kana": "チェックインします",
+        "meaning": "登記、辦理手續",
         "level": "N5"
       },
       {
-        "word": "おみやげ",
-        "kana": "おみやげ",
-        "meaning": "伴手禮",
+        "word": "出かけます",
+        "kana": "でかけます",
+        "meaning": "出門",
         "level": "N5"
       }
     ],
     "menu": [
       {
-        "word": "パスタ",
-        "kana": "パスタ",
-        "meaning": "義大利麵",
+        "word": "アイスクリーム",
+        "kana": "アイスクリーム",
+        "meaning": "冰淇淋",
         "level": "N5"
       },
       {
-        "word": "パン",
-        "kana": "パン",
-        "meaning": "麵包",
+        "word": "おかし",
+        "kana": "おかし",
+        "meaning": "零食",
         "level": "N5"
       },
       {
-        "word": "晩ご飯",
-        "kana": "ばんごはん",
-        "meaning": "晚餐",
+        "word": "ケーキ",
+        "kana": "ケーキ",
+        "meaning": "蛋糕",
         "level": "N5"
       },
       {
-        "word": "昼ご飯",
-        "kana": "ひるごはん",
-        "meaning": "午餐",
+        "word": "メロン",
+        "kana": "メロン",
+        "meaning": "哈密瓜",
         "level": "N5"
       },
       {
-        "word": "野菜",
-        "kana": "やさい",
-        "meaning": "蔬菜",
+        "word": "リンゴ",
+        "kana": "リンゴ",
+        "meaning": "蘋果",
         "level": "N5"
       },
       {
-        "word": "ラーメン",
-        "kana": "ラーメン",
-        "meaning": "拉麵",
+        "word": "くだもの",
+        "kana": "くだもの",
+        "meaning": "水果",
         "level": "N5"
       },
       {
-        "word": "料理",
-        "kana": "りょうり",
-        "meaning": "料理、菜",
+        "word": "お酒",
+        "kana": "おさけ",
+        "meaning": "酒",
         "level": "N5"
       },
       {
-        "word": "おなかがすきます",
-        "kana": "おなかがすきます",
-        "meaning": "肚子餓",
+        "word": "お茶",
+        "kana": "おちゃ",
+        "meaning": "茶",
         "level": "N5"
       }
     ]
   },
-  "last_sent_date": "2026-07-06",
+  "last_sent_date": "2026-07-07",
   "last_review_date": "2026-07-06",
-  "today_day": 2
+  "today_day": 3
 }
