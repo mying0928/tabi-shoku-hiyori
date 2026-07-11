@@ -1,98 +1,98 @@
 {
-  "travel_index": 36,
-  "menu_index": 48,
-  "day": 7,
+  "travel_index": 42,
+  "menu_index": 56,
+  "day": 8,
   "today_words": {
     "travel": [
       {
-        "word": "スーパー",
-        "kana": "スーパー",
-        "meaning": "超市",
+        "word": "西",
+        "kana": "にし",
+        "meaning": "西",
         "level": "N5"
       },
       {
-        "word": "コンビニ",
-        "kana": "コンビニ",
-        "meaning": "便利商店",
+        "word": "南",
+        "kana": "みなみ",
+        "meaning": "南",
         "level": "N5"
       },
       {
-        "word": "こうばん",
-        "kana": "こうばん",
-        "meaning": "派出所",
+        "word": "北",
+        "kana": "きた",
+        "meaning": "北",
         "level": "N5"
       },
       {
-        "word": "歩きます",
-        "kana": "あるきます",
-        "meaning": "走路",
+        "word": "右",
+        "kana": "みぎ",
+        "meaning": "右",
         "level": "N5"
       },
       {
-        "word": "まっすぐ",
-        "kana": "まっすぐ",
-        "meaning": "筆直",
+        "word": "左",
+        "kana": "ひだり",
+        "meaning": "左",
         "level": "N5"
       },
       {
-        "word": "東",
-        "kana": "ひがし",
-        "meaning": "東",
+        "word": "デパート",
+        "kana": "デパート",
+        "meaning": "百貨商場",
         "level": "N5"
       }
     ],
     "menu": [
       {
-        "word": "わさび",
-        "kana": "わさび",
-        "meaning": "芥末",
+        "word": "切ります",
+        "kana": "きります",
+        "meaning": "切",
         "level": "N5"
       },
       {
-        "word": "からい",
-        "kana": "からい",
-        "meaning": "辣",
+        "word": "（お金を）はらいます",
+        "kana": "（おかねを）はらいます",
+        "meaning": "付錢",
         "level": "N5"
       },
       {
-        "word": "つめたい",
-        "kana": "つめたい",
-        "meaning": "冷、冰",
-        "level": "N5"
+        "word": "カニ",
+        "kana": "カニ",
+        "meaning": "蟹",
+        "level": "N4"
       },
       {
-        "word": "コップ",
-        "kana": "コップ",
-        "meaning": "杯子",
-        "level": "N5"
+        "word": "カレーライス",
+        "kana": "カレーライス",
+        "meaning": "咖哩飯",
+        "level": "N4"
       },
       {
-        "word": "食べます",
-        "kana": "たべます",
-        "meaning": "吃",
-        "level": "N5"
+        "word": "ぎょうざ",
+        "kana": "ぎょうざ",
+        "meaning": "餃子",
+        "level": "N4"
       },
       {
-        "word": "飲みます",
-        "kana": "のみます",
-        "meaning": "喝",
-        "level": "N5"
+        "word": "米",
+        "kana": "こめ",
+        "meaning": "米",
+        "level": "N4"
       },
       {
-        "word": "ナイフ",
-        "kana": "ナイフ",
-        "meaning": "小刀",
-        "level": "N5"
+        "word": "スープ",
+        "kana": "スープ",
+        "meaning": "湯",
+        "level": "N4"
       },
       {
-        "word": "スプーン",
-        "kana": "スプーン",
-        "meaning": "湯匙",
-        "level": "N5"
+        "word": "すし",
+        "kana": "すし",
+        "meaning": "壽司",
+        "level": "N4"
       }
     ]
   },
-  "last_sent_date": "2026-07-10",
+  "last_sent_date": "2026-07-11",
   "last_review_date": "2026-07-10",
-  "today_day": 6
+  "today_day": 7
 }
