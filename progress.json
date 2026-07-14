@@ -1,98 +1,98 @@
 {
-  "travel_index": 54,
-  "menu_index": 72,
-  "day": 10,
+  "travel_index": 60,
+  "menu_index": 80,
+  "day": 11,
   "today_words": {
     "travel": [
       {
-        "word": "自動車",
-        "kana": "じどうしゃ",
-        "meaning": "汽車",
+        "word": "ホーム",
+        "kana": "ホーム",
+        "meaning": "車站月臺",
         "level": "N4"
       },
       {
-        "word": "自転車置き場",
-        "kana": "じてんしゃおきば",
-        "meaning": "自行車停放處",
+        "word": "ホームゲート",
+        "kana": "ホームゲート",
+        "meaning": "月臺安全門",
         "level": "N4"
       },
       {
-        "word": "新幹線",
-        "kana": "しんかんせん",
-        "meaning": "新幹線",
+        "word": "ロープウェイ",
+        "kana": "ロープウェイ",
+        "meaning": "纜車",
         "level": "N4"
       },
       {
-        "word": "タクシー乗り場",
-        "kana": "タクシーのりば",
-        "meaning": "計程車乘車處",
+        "word": "運転（を）する",
+        "kana": "うんてん（を）する",
+        "meaning": "駕駛",
         "level": "N4"
       },
       {
-        "word": "駐車",
-        "kana": "ちゅうしゃ",
-        "meaning": "停車",
+        "word": "案内（を）する",
+        "kana": "あんない（を）する",
+        "meaning": "帶路、導覽",
         "level": "N4"
       },
       {
-        "word": "電車",
-        "kana": "でんしゃ",
-        "meaning": "電車",
+        "word": "ガイドブック",
+        "kana": "ガイドブック",
+        "meaning": "指南",
         "level": "N4"
       }
     ],
     "menu": [
       {
-        "word": "チョコレートケーキ",
-        "kana": "チョコレートケーキ",
-        "meaning": "巧克力蛋糕",
+        "word": "ミルク",
+        "kana": "ミルク",
+        "meaning": "牛奶",
         "level": "N4"
       },
       {
-        "word": "デザート",
-        "kana": "デザート",
-        "meaning": "甜品",
+        "word": "ホット",
+        "kana": "ホット",
+        "meaning": "熱飲",
         "level": "N4"
       },
       {
-        "word": "フルーツソース",
-        "kana": "フルーツソース",
-        "meaning": "果醬",
+        "word": "ケーキ屋",
+        "kana": "ケーキや",
+        "meaning": "蛋糕店",
         "level": "N4"
       },
       {
-        "word": "ホワイトチョコレート",
-        "kana": "ホワイトチョコレート",
-        "meaning": "白巧克力",
+        "word": "屋台",
+        "kana": "やたい",
+        "meaning": "小吃攤",
         "level": "N4"
       },
       {
-        "word": "ミカン",
-        "kana": "ミカン",
-        "meaning": "橘子",
+        "word": "ラーメン屋",
+        "kana": "ラーメンや",
+        "meaning": "拉麵店",
         "level": "N4"
       },
       {
-        "word": "お湯",
-        "kana": "おゆ",
-        "meaning": "開水",
+        "word": "アイス",
+        "kana": "アイス",
+        "meaning": "冰",
         "level": "N4"
       },
       {
-        "word": "日本酒",
-        "kana": "にほんしゅ",
-        "meaning": "日本酒",
+        "word": "味",
+        "kana": "あじ",
+        "meaning": "味道",
         "level": "N4"
       },
       {
-        "word": "飲み水",
-        "kana": "のみみず",
-        "meaning": "飲用水",
+        "word": "さとう",
+        "kana": "さとう",
+        "meaning": "砂糖",
         "level": "N4"
       }
     ]
   },
-  "last_sent_date": "2026-07-13",
+  "last_sent_date": "2026-07-14",
   "last_review_date": "2026-07-13",
-  "today_day": 9
+  "today_day": 10
 }
