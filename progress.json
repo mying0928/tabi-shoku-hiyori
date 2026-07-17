@@ -1,98 +1,98 @@
 {
-  "travel_index": 72,
-  "menu_index": 96,
-  "day": 13,
+  "travel_index": 78,
+  "menu_index": 104,
+  "day": 14,
   "today_words": {
     "travel": [
       {
-        "word": "ビザ",
-        "kana": "ビザ",
-        "meaning": "簽證",
+        "word": "予約（を）する",
+        "kana": "よやく（を）する",
+        "meaning": "預約",
         "level": "N4"
       },
       {
-        "word": "遊園地",
-        "kana": "ゆうえんち",
-        "meaning": "遊樂園",
+        "word": "紅葉",
+        "kana": "こうよう",
+        "meaning": "楓葉",
         "level": "N4"
       },
       {
-        "word": "旅館",
-        "kana": "りょかん",
-        "meaning": "旅館",
+        "word": "神社",
+        "kana": "じんじゃ",
+        "meaning": "神社",
         "level": "N4"
       },
       {
-        "word": "出張（を）する",
-        "kana": "しゅっちょう（を）する",
-        "meaning": "出差",
+        "word": "山登り",
+        "kana": "やまのぼり",
+        "meaning": "登山",
         "level": "N4"
       },
       {
-        "word": "海外",
-        "kana": "かいがい",
-        "meaning": "海外",
+        "word": "帰り道",
+        "kana": "かえりみち",
+        "meaning": "回家的路",
         "level": "N4"
       },
       {
-        "word": "よてい",
-        "kana": "よてい",
-        "meaning": "計畫、預訂表",
+        "word": "信号",
+        "kana": "しんごう",
+        "meaning": "紅綠燈",
         "level": "N4"
       }
     ],
     "menu": [
       {
-        "word": "におい",
-        "kana": "におい",
-        "meaning": "氣味",
-        "level": "N4"
+        "word": "うどん",
+        "kana": "うどん",
+        "meaning": "烏龍麵",
+        "level": "N3"
       },
       {
-        "word": "あつい",
-        "kana": "あつい",
-        "meaning": "燙的",
-        "level": "N4"
+        "word": "うなぎ",
+        "kana": "うなぎ",
+        "meaning": "鰻魚",
+        "level": "N3"
       },
       {
-        "word": "やわらかい",
-        "kana": "やわらかい",
-        "meaning": "軟的",
-        "level": "N4"
+        "word": "えび",
+        "kana": "えび",
+        "meaning": "蝦",
+        "level": "N3"
       },
       {
-        "word": "かたい",
-        "kana": "かたい",
-        "meaning": "硬的",
-        "level": "N4"
+        "word": "牛丼屋",
+        "kana": "ぎゅうどんや",
+        "meaning": "牛肉蓋飯店",
+        "level": "N3"
       },
       {
-        "word": "カップ",
-        "kana": "カップ",
-        "meaning": "杯子",
-        "level": "N4"
+        "word": "キュウリ",
+        "kana": "キュウリ",
+        "meaning": "黃瓜",
+        "level": "N3"
       },
       {
-        "word": "甘い",
-        "kana": "あまい",
-        "meaning": "甜的",
-        "level": "N4"
+        "word": "こしょう",
+        "kana": "こしょう",
+        "meaning": "胡椒",
+        "level": "N3"
       },
       {
-        "word": "えらぶ",
-        "kana": "えらぶ",
-        "meaning": "選擇",
-        "level": "N4"
+        "word": "小麦粉",
+        "kana": "こむぎこ",
+        "meaning": "麵粉",
+        "level": "N3"
       },
       {
-        "word": "ご自由（に）",
-        "kana": "ごじゆう（に）",
-        "meaning": "隨意地",
-        "level": "N4"
+        "word": "サラダ",
+        "kana": "サラダ",
+        "meaning": "沙拉",
+        "level": "N3"
       }
     ]
   },
-  "last_sent_date": "2026-07-16",
+  "last_sent_date": "2026-07-17",
   "last_review_date": "2026-07-16",
-  "today_day": 12
+  "today_day": 13
 }
