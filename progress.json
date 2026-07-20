@@ -1,98 +1,98 @@
 {
-  "travel_index": 90,
-  "menu_index": 120,
-  "day": 16,
+  "travel_index": 96,
+  "menu_index": 128,
+  "day": 17,
   "today_words": {
     "travel": [
       {
-        "word": "シートベルト",
-        "kana": "シートベルト",
-        "meaning": "安全帶",
-        "level": "N4"
-      },
-      {
-        "word": "なくす",
-        "kana": "なくす",
-        "meaning": "弄丟",
-        "level": "N4"
-      },
-      {
-        "word": "入口",
-        "kana": "いりぐち",
-        "meaning": "入口",
-        "level": "N4"
-      },
-      {
-        "word": "出口",
-        "kana": "でぐち",
-        "meaning": "出口",
-        "level": "N4"
-      },
-      {
-        "word": "機内",
-        "kana": "きない",
-        "meaning": "機艙內",
+        "word": "交通機関",
+        "kana": "こうつうきかん",
+        "meaning": "交通設施",
         "level": "N3"
       },
       {
-        "word": "急行",
-        "kana": "きゅうこう",
-        "meaning": "特快電車",
+        "word": "交通の便がいい",
+        "kana": "こうつうのべんがいい",
+        "meaning": "交通便利",
+        "level": "N3"
+      },
+      {
+        "word": "終電",
+        "kana": "しゅうでん",
+        "meaning": "末班車",
+        "level": "N3"
+      },
+      {
+        "word": "ダイヤ",
+        "kana": "ダイヤ",
+        "meaning": "電車時刻表",
+        "level": "N3"
+      },
+      {
+        "word": "雪道",
+        "kana": "ゆきみち",
+        "meaning": "積雪的路",
+        "level": "N3"
+      },
+      {
+        "word": "発車（する）",
+        "kana": "はっしゃ（する）",
+        "meaning": "發車",
         "level": "N3"
       }
     ],
     "menu": [
       {
-        "word": "納豆",
-        "kana": "なっとう",
-        "meaning": "納豆",
+        "word": "ファストフード",
+        "kana": "ファストフード",
+        "meaning": "速食",
         "level": "N3"
       },
       {
-        "word": "生クリーム",
-        "kana": "なまクリーム",
-        "meaning": "生奶油",
+        "word": "ボウル",
+        "kana": "ボウル",
+        "meaning": "做菜用大碗",
         "level": "N3"
       },
       {
-        "word": "鍋",
-        "kana": "なべ",
-        "meaning": "火鍋",
+        "word": "むね肉",
+        "kana": "むねにく",
+        "meaning": "雞胸肉",
         "level": "N3"
       },
       {
-        "word": "にんじん",
-        "kana": "にんじん",
-        "meaning": "胡蘿蔔",
+        "word": "めん",
+        "kana": "めん",
+        "meaning": "麵條",
         "level": "N3"
       },
       {
-        "word": "バーベキューパーティー",
-        "kana": "バーベキューパーティー",
-        "meaning": "燒烤派對",
+        "word": "もも肉",
+        "kana": "ももにく",
+        "meaning": "雞腿肉",
         "level": "N3"
       },
       {
-        "word": "ハム",
-        "kana": "ハム",
-        "meaning": "火腿",
+        "word": "ゆでたまご",
+        "kana": "ゆでたまご",
+        "meaning": "水煮蛋",
         "level": "N3"
       },
       {
-        "word": "ハンバーガー",
-        "kana": "ハンバーガー",
-        "meaning": "漢堡",
+        "word": "和菓子",
+        "kana": "わがし",
+        "meaning": "日式點心",
         "level": "N3"
       },
       {
-        "word": "ピザ",
-        "kana": "ピザ",
-        "meaning": "披薩",
+        "word": "新鮮",
+        "kana": "しんせん",
+        "meaning": "新鮮的",
         "level": "N3"
       }
     ]
   },
-  "last_sent_date": "2026-07-19",
+  "last_sent_date": "2026-07-20",
   "last_review_date": "2026-07-19",
-  "today_day": 15
+  "today_day": 16
 }
