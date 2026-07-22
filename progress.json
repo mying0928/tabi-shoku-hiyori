@@ -1,98 +1,98 @@
 {
-  "travel_index": 102,
-  "menu_index": 136,
-  "day": 18,
+  "travel_index": 108,
+  "menu_index": 144,
+  "day": 19,
   "today_words": {
     "travel": [
       {
-        "word": "反対方向",
-        "kana": "はんたいほうこう",
-        "meaning": "反方向",
+        "word": "滞在（する）",
+        "kana": "たいざい（する）",
+        "meaning": "滯留",
         "level": "N3"
       },
       {
-        "word": "海水浴",
-        "kana": "かいすいよく",
-        "meaning": "海水浴",
+        "word": "到着（する）",
+        "kana": "とうちゃく（する）",
+        "meaning": "到達",
         "level": "N3"
       },
       {
-        "word": "観光客",
-        "kana": "かんこうきゃく",
-        "meaning": "遊客",
+        "word": "登山",
+        "kana": "とざん",
+        "meaning": "登山",
         "level": "N3"
       },
       {
-        "word": "観光地",
-        "kana": "かんこうち",
-        "meaning": "觀光地",
+        "word": "ホームステイ",
+        "kana": "ホームステイ",
+        "meaning": "寄宿家庭",
         "level": "N3"
       },
       {
-        "word": "宿泊（する）",
-        "kana": "しゅくはく（する）",
-        "meaning": "住宿",
+        "word": "待ち合わせ",
+        "kana": "まちあわせ",
+        "meaning": "相約碰面",
         "level": "N3"
       },
       {
-        "word": "スーツケース",
-        "kana": "スーツケース",
-        "meaning": "旅行箱",
+        "word": "迷子",
+        "kana": "まいご",
+        "meaning": "走失、迷路",
         "level": "N3"
       }
     ],
     "menu": [
       {
-        "word": "生",
-        "kana": "なま",
-        "meaning": "生的",
+        "word": "お茶会",
+        "kana": "おちゃかい",
+        "meaning": "茶會",
         "level": "N3"
       },
       {
-        "word": "塩",
-        "kana": "しお",
-        "meaning": "鹽",
+        "word": "ドリンク",
+        "kana": "ドリンク",
+        "meaning": "飲料",
         "level": "N3"
       },
       {
-        "word": "トマト",
-        "kana": "トマト",
-        "meaning": "番茄",
+        "word": "朝市",
+        "kana": "あさいち",
+        "meaning": "早市",
         "level": "N3"
       },
       {
-        "word": "いちご",
-        "kana": "いちご",
-        "meaning": "草莓",
+        "word": "外食（する）",
+        "kana": "がいしょく（する）",
+        "meaning": "在外面吃飯",
         "level": "N3"
       },
       {
-        "word": "フルーツ",
-        "kana": "フルーツ",
-        "meaning": "水果",
+        "word": "料理屋",
+        "kana": "りょうりや",
+        "meaning": "餐館",
         "level": "N3"
       },
       {
-        "word": "ヨーグルト",
-        "kana": "ヨーグルト",
-        "meaning": "優格",
+        "word": "ランチタイム",
+        "kana": "ランチタイム",
+        "meaning": "午餐時間",
         "level": "N3"
       },
       {
-        "word": "はちみつ",
-        "kana": "はちみつ",
-        "meaning": "蜂蜜",
+        "word": "味つけ",
+        "kana": "あじつけ",
+        "meaning": "調味",
         "level": "N3"
       },
       {
-        "word": "クッキー",
-        "kana": "クッキー",
-        "meaning": "餅乾",
+        "word": "あぶら",
+        "kana": "あぶら",
+        "meaning": "油",
         "level": "N3"
       }
     ]
   },
-  "last_sent_date": "2026-07-21",
+  "last_sent_date": "2026-07-22",
   "last_review_date": "2026-07-21",
-  "today_day": 17
+  "today_day": 18
 }
