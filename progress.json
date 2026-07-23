@@ -1,98 +1,98 @@
 {
-  "travel_index": 108,
-  "menu_index": 144,
-  "day": 19,
+  "travel_index": 114,
+  "menu_index": 152,
+  "day": 20,
   "today_words": {
     "travel": [
       {
-        "word": "滞在（する）",
-        "kana": "たいざい（する）",
-        "meaning": "滯留",
+        "word": "キャンセル（する）",
+        "kana": "キャンセル（する）",
+        "meaning": "取消",
         "level": "N3"
       },
       {
-        "word": "到着（する）",
-        "kana": "とうちゃく（する）",
-        "meaning": "到達",
+        "word": "変更（する）",
+        "kana": "へんこう（する）",
+        "meaning": "變更",
         "level": "N3"
       },
       {
-        "word": "登山",
-        "kana": "とざん",
-        "meaning": "登山",
+        "word": "手荷物",
+        "kana": "てにもつ",
+        "meaning": "手提行李",
         "level": "N3"
       },
       {
-        "word": "ホームステイ",
-        "kana": "ホームステイ",
-        "meaning": "寄宿家庭",
+        "word": "手続き（する）",
+        "kana": "てつづき（する）",
+        "meaning": "辦理手續",
         "level": "N3"
       },
       {
-        "word": "待ち合わせ",
-        "kana": "まちあわせ",
-        "meaning": "相約碰面",
+        "word": "絵はがき",
+        "kana": "えはがき",
+        "meaning": "明信片",
         "level": "N3"
       },
       {
-        "word": "迷子",
-        "kana": "まいご",
-        "meaning": "走失、迷路",
+        "word": "渋滞（する）",
+        "kana": "じゅうたい（する）",
+        "meaning": "塞車",
         "level": "N3"
       }
     ],
     "menu": [
       {
-        "word": "お茶会",
-        "kana": "おちゃかい",
-        "meaning": "茶會",
+        "word": "甘口",
+        "kana": "あまくち",
+        "meaning": "偏甜",
         "level": "N3"
       },
       {
-        "word": "ドリンク",
-        "kana": "ドリンク",
-        "meaning": "飲料",
+        "word": "カロリー",
+        "kana": "カロリー",
+        "meaning": "熱量",
         "level": "N3"
       },
       {
-        "word": "朝市",
-        "kana": "あさいち",
-        "meaning": "早市",
+        "word": "グルメ",
+        "kana": "グルメ",
+        "meaning": "美食",
         "level": "N3"
       },
       {
-        "word": "外食（する）",
-        "kana": "がいしょく（する）",
-        "meaning": "在外面吃飯",
+        "word": "レシピ",
+        "kana": "レシピ",
+        "meaning": "食譜",
         "level": "N3"
       },
       {
-        "word": "料理屋",
-        "kana": "りょうりや",
-        "meaning": "餐館",
+        "word": "栄養",
+        "kana": "えいよう",
+        "meaning": "營養",
         "level": "N3"
       },
       {
-        "word": "ランチタイム",
-        "kana": "ランチタイム",
-        "meaning": "午餐時間",
+        "word": "ふっとうする",
+        "kana": "ふっとうする",
+        "meaning": "沸騰、燒開",
         "level": "N3"
       },
       {
-        "word": "味つけ",
-        "kana": "あじつけ",
-        "meaning": "調味",
+        "word": "食中毒",
+        "kana": "しょくちゅうどく",
+        "meaning": "食物中毒",
         "level": "N3"
       },
       {
-        "word": "あぶら",
-        "kana": "あぶら",
-        "meaning": "油",
+        "word": "フォーク",
+        "kana": "フォーク",
+        "meaning": "叉子",
         "level": "N3"
       }
     ]
   },
-  "last_sent_date": "2026-07-22",
+  "last_sent_date": "2026-07-23",
   "last_review_date": "2026-07-22",
-  "today_day": 18
+  "today_day": 19
 }
