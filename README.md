@@ -66,8 +66,8 @@ GitHub Actions 的原生 `schedule` 觸發實測下來不穩定（常常完全�
 所以改用 [cron-job.org](https://cron-job.org)（免費）定時呼叫
 `workflow_dispatch` API 來觸發。
 
-1. 在 GitHub 建立一個 **fine-grained PAT**，只勾選這個 repo，權限給
-   `Actions: Read and write`
+1. 在 https://github.com/settings/tokens 建立一個 **PAT (classic)**，
+   Expiration 建議設 90 天，Scopes 勾選 `repo` 和 `workflow`
 2. 到 cron-job.org 建立兩個 cronjob：
 
    **Job 1 — 每天 10:00（台灣時間）：推送新單字**
@@ -108,7 +108,17 @@ GitHub Actions 的原生 `schedule` 觸發實測下來不穩定（常常完全�
 
 - 到期前3天起，每天早上的訊息會附帶提醒：「GitHub PAT 將於 XXXX-XX-XX 過期」
 - 過期後則提示「已過期，記得重新產生token」
-- 重新產生PAT後，記得更新 `pat_issued` / `pat_expires`（push日 + 90天）
+
+### PAT 過期時，去哪裡換新的
+
+1. **GitHub**：到 https://github.com/settings/tokens 點 **Generate new token
+   (classic)**，Scopes 照舊勾 `repo` 和 `workflow`，產生後複製新 token
+2. **cron-job.org**：登入 https://cron-job.org，把兩個 cronjob（10:00 推送
+   單字 / 22:00 複習提醒）分別打開 **Edit → Advanced → Headers**，把
+   `Authorization` 這欄的值換成 `Bearer <新的PAT>`（兩個 job 都要改）
+3. 舊的 token 可以回 GitHub 那頁點 **Delete** 刪除
+4. 更新這個 repo 的 `reminders.json`：`pat_issued` 改成今天日期，
+   `pat_expires` 改成新 token 的到期日
 
 ## 關於「30天沒commit」的提醒
 
